@@ -2,7 +2,7 @@
 module.exports = {
   content: [
       './pages/index.vue',
-      './components/task.vue',
+      './components/TaskItem.vue',
       './assets/css/tailwind.css'
   ],
     theme: {
